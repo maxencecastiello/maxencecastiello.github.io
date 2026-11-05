@@ -16,8 +16,7 @@ This paper provides microeconomic evidence on the effect of radio exposure on la
 
 
 
-**Railroad Expansion, Local Shocks and Individual Opportunities: Evidence from Nineteenth Century America**  
-with Clément Bosquet  
+**Railroad Expansion, Local Shocks and Individual Opportunities: Evidence from Nineteenth Century America**, with Clément Bosquet
 Draft and slides available upon request
 <details>
 <summary>Abstract</summary>
@@ -26,7 +25,7 @@ We provide microeconomic evidence on the effect of railroad infrastructure on lo
 
 
 
-**Voices of the Republic: Regional Newspapers in France During the Third Republic (1871−1914)", with Maxime Chabriel**
+**Voices of the Republic: Regional Newspapers in France During the Third Republic (1871−1914)**, with Maxime Chabriel
 Draft and slides available upon request
 <details>
 <summary>Abstract</summary>
