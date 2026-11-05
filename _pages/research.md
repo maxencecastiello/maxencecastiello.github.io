@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 **Spread the Word: Mass Media, Language and Propaganda in Fascist Italy**  
-[[Paper]](/files/castiello_spread_the_word.pdf) [[Online Appendix]](/files/castiello_spread_the_word.pdf)
+[[Paper]](/files/castiello_spread_the_word.pdf) [[Online Appendix]](/files/castiello_spread_the_word_ONLINE_APPENDIX.pdf)
 
 <details>
 <summary>Abstract</summary>
