@@ -5,8 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Paris 1 Panthéon-Sorbonne University
+## Lecturer
 
-**Nom du cours** (Licence 1), TA for Professeur, 2022–2025
+* Introductory Mathematics (undergraduate level), at Paris 1 Panthéon-Sorbonne University
 
-**Nom du cours** (Licence 2), TA for Professeur, 2023–2024
+## Teaching Assistant
+
+* Introductory Econometrics (undergraduate level), at Paris 1 Panthéon-Sorbonne University
+* Mathematics for Economics (undergraduate level), at Paris 1 Panthéon-Sorbonne University
